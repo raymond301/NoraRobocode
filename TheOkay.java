@@ -9,6 +9,8 @@ import robocode.*;
  */
 public class TheOkay extends Robot
 {
+	String[] movements = {"ahead","ahead","left","back"};
+	
 	/**
 	 * run: TheOkay's default behavior
 	 */
